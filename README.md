@@ -1,8 +1,8 @@
-<image src = "https://github.com/Somnath-sanu/Somnath-sanu/assets/122222948/b9403408-db46-4fa8-b657-a377e5196581">
+
 <h1 align="center">Hi 👋, I'm Somnath
  mishra</h1>
 <h3 align="center">A passionate full Stack developer </h3>
-<img align="right" alt="Coding" width="400" src="">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somnath-sanu&label=Profile%20views&color=0e75b6&style=flat" alt="somnath-sanu" /> </p>
 
