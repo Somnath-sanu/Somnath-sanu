@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h3 align="left">Resume 👇:</h3>
+[somnath-resume-111.pdf](https://github.com/user-attachments/files/16840581/somnath-resume-111.pdf)
 
 
 - 📫 How to reach me **somnathmishra100dbi@gmail.com**
