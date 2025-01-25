@@ -8,7 +8,8 @@
 
 <h3 align="left">Resume 👇:</h3>
 
-[somnath-resume-updated.pdf](https://github.com/user-attachments/files/17005133/somnath-resume-updated.pdf)
+
+[Somnath-Resume-New.pdf](https://github.com/user-attachments/files/18546567/Somnath-Resume-New.pdf)
 
 
 
